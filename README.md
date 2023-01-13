@@ -1,2 +1,3 @@
 # DIAMOND
-This is a diamond dataset containing various attributes of diamonds such as carat, cut, color, clarity, depth, table, price, and x,y,z dimensions. The dataset contains over 53,000 observations and 10 variables.
+This is a diamond dataset containing various attributes of diamonds such as carat, cut, color, clarity, depth, table, price, and x,y,z dimensions. The dataset contains over 53,000 observations and 10 variables.The data is in a CSV file format and it can be used for various data analysis and exploration tasks such as, understanding the relationship between different attributes of diamonds and their prices, identifying patterns in the data, and building predictive models. It can be used to explore the trends in the diamonds market and gain insights into factors that affect the price of diamonds. This dataset can be used by researchers, data scientists, and anyone interested in understanding the diamond industry and its market trends.
+
